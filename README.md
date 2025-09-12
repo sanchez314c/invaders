@@ -1,38 +1,11 @@
-####################################################################################
-#                                                                                  #
-#   ██████╗ ███████╗████████╗    ███████╗██╗    ██╗██╗███████╗████████╗██╗   ██╗ #
-#  ██╔════╝ ██╔════╝╚══██╔══╝    ██╔════╝██║    ██║██║██╔════╝╚══██╔══╝╚██╗ ██╔╝ #
-#  ██║  ███╗█████╗     ██║       ███████╗██║ █╗ ██║██║█████╗     ██║     ╚████╔╝  #
-#  ██║   ██║██╔══╝     ██║       ╚════██║██║███╗██║██║██╔══╝     ██║      ╚██╔╝   #
-#  ╚██████╔╝███████╗   ██║       ███████║╚███╔███╔╝██║██╗        ██║       ██║    #
-#   ╚═════╝ ╚══════╝   ╚═╝       ╚══════╝ ╚══╝╚══╝ ╚═╝╚═╝        ╚═╝       ╚═╝    #
-#                                                                                  #
-####################################################################################
-#
-# Project Name: UAP Invaders Contact Protocol
-#
-# Author: @spacewelder314
-#
-# Date Created: 2025-08-21
-#
-# Last Modified: 2025-09-01
-#
-# Version: 1.0.0
-#
-# Description: A modern take on Space Invaders featuring UAP/UFO enemies with 
-#              mouse controls and the famous Tic Tac phenomenon
-#
-# Language/Framework: JavaScript/Electron
-#
-# Usage: npm start (development) or run the compiled app from dist/
-#
-# Dependencies: electron@^27.3.11, electron-builder@^24.9.1
-#
-# GitHub: https://github.com/spacewelder314/INVADERS
-#
-# Notes: Cross-platform desktop game with native builds for macOS, Windows, Linux
-#
-####################################################################################
+# INVADERS - UAP Contact Protocol 🛸
+
+> A modern take on Space Invaders featuring UAP/UFO enemies with mouse controls and the famous Tic Tac phenomenon
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Electron](https://img.shields.io/badge/electron-27.3+-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
 # 🛸 UAP INVADERS: Contact Protocol 🛸
 
