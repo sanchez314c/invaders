@@ -186,7 +186,7 @@ uap-invaders/
 │       └── *.AppImage      # Linux packages
 ├── 🔧 Development
 │   └── dev/                 # Development documentation
-│       ├── BREADCRUMBS.md  # Development notes
+│       └── archive/BREADCRUMBS.md  # Development notes
 │       ├── CHANGELOG.md    # Version history
 │       ├── CONTRIBUTING.md # Contribution guide
 │       └── REQUIREMENTS.md # System requirements
