@@ -82,4 +82,4 @@ desktop.ini
 
 # Package manager locks (keep package-lock.json)
 yarn.lock
-pnpm-lock.yamlarchive/
+pnpm-lock.yaml
